@@ -14,11 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Software Engineer with 3+ years of experience designing secure, scalable backend systems and automation workflows.  
-
-I specialize in Python, PHP, and JavaScript, building RESTful APIs, AI-powered automation systems, and production-ready applications that improve operational efficiency and reliability.  
-
-Experienced in system administration, database optimization, cloud deployment, and workflow automation using OpenAI APIs and modern integration tools.
+Full Stack Software Engineer with 3+ years of experience designing secure, scalable backend systems and automation workflows. I specialize in Python, PHP, and JavaScript, building RESTful APIs, AI-powered automation systems, and production-ready applications that improve operational efficiency and reliability. Experienced in system administration, database optimization, cloud deployment, and workflow automation using OpenAI APIs and modern integration tools.
 
 ---
 
