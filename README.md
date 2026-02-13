@@ -20,7 +20,7 @@ Full Stack Software Engineer with 3+ years of experience designing secure, scala
 
 # 🛠 Tech Stack
 
-## 💻 Core Languages
+## Core Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
@@ -29,7 +29,7 @@ Full Stack Software Engineer with 3+ years of experience designing secure, scala
 
 ---
 
-## 🏗 Full-Stack Engineering (Frontend + Backend)
+## Full-Stack Engineering (Frontend + Backend)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
@@ -39,7 +39,7 @@ Full Stack Software Engineer with 3+ years of experience designing secure, scala
 
 ---
 
-## 🤖 Automation & AI Systems
+## Automation & AI Systems
 ![OpenAI API](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge)
@@ -47,7 +47,7 @@ Full Stack Software Engineer with 3+ years of experience designing secure, scala
 
 ---
 
-## ☁️ DevOps & Infrastructure
+## DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
@@ -55,7 +55,7 @@ Full Stack Software Engineer with 3+ years of experience designing secure, scala
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 📊 Customer Churn Prediction (Full Stack ML App)
 Built a machine learning classification system using 17,000+ data points to predict customer churn.  
@@ -63,19 +63,19 @@ Includes data preprocessing, model training, and a Streamlit UI for real-time pr
 
 ---
 
-### 🔗 URL Shortener Web App (Laravel)
+### URL Shortener Web App (Laravel)
 Developed a high-availability Laravel-based URL shortener supporting 17,000+ links.  
 Implemented database migrations, routing optimization, and SQLite integration.
 
 ---
 
-### 🤖 AI Daily Summary Assistant
+### AI Daily Summary Assistant
 Built an intelligent automation system using n8n, Google Calendar API, Gmail API, and OpenAI GPT models.  
 Generates automated daily briefings by merging events and related emails into structured summaries.
 
 ---
 
-### ⚽ FIFA World Cup 2026 Prediction Model
+### FIFA World Cup 2026 Prediction Model
 Developed a Python-based ML model to simulate tournament outcomes using historical FIFA data, classification algorithms, and probability forecasting.
 
 ---
